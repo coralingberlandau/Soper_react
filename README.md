@@ -1,3 +1,9 @@
+# Soper - React
+
+    You have here a shopping cart template. This project displays a list of products and allows you to add them to a cart. It calculates the total number of items and the total amount. You can use this template to design as you wish or add images as needed.
+
+    For improvements, suggestions, and constructive feedback, I am always happy to hear from you. Enjoy and good luck!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
